@@ -10,7 +10,7 @@ Bewertungsbögen orientieren.
 Das Programm berechnet auf der Basis von Bewertungen zu einzelnen Kriterien oder Kompetenzen, oder genauer 
 gesagt Performanzen, eine Gesamtbewertung in Prozent und als Note für eine Prüfungsleistung oder Leistung 
 von Schüler:innen, Studierenden, Kollegiat:innen, Auszubildenden oder -allgemein ausgedrückt- von zu prüfenden
-Personen in Schulen, Hochschulen oder sonstigen Bildungseinrichtungen, z.B. bei mündlichen Prüfungen, sonstigen
+Personen in Schulen, Hochschulen, Studienkollegs, oder sonstigen Bildungseinrichtungen, z.B. bei mündlichen Prüfungen, sonstigen
 Leistungen im Unterricht, in Seminaren oder in Kursen, etc.   
 
 Die Gesamtbewertung wird von dem Programm als gewichtete Summe von eingegebenen Bewertungen zu einzelnen Kriterien 
