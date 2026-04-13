@@ -34,7 +34,7 @@ public class DescriptionTab extends Tab {
 					  "Sie sollten eine Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben\n" +
 					  "Wenn nicht, siehe <https://www.gnu.org/licenses/>.\n\n" +
 					  "Copyright \u00A9 2026 Ren\u00E9 Jursa\n\n" +
-					  "FEHLZEITEN enth\u00E4lt folgende Third Party Software:\n" +
+					  "KOBS enth\u00E4lt folgende Third Party Software:\n" +
 					  "\u25E6 JavaFX (Open source Java client application platform): https://openjfx.io/" + "\n" + 
 					  "\u25E6 OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF" + "\n"; 
 		
