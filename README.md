@@ -11,7 +11,7 @@ Das Programm berechnet auf der Basis von Bewertungen zu einzelnen Kriterien oder
 gesagt Performanzen, eine Gesamtbewertung in Prozent und als Note für eine Prüfungsleistung oder Leistung 
 von Schüler:innen, Studierenden, Kollegiat:innen, Auszubildenden oder -allgemein ausgedrückt- von zu prüfenden
 Personen in Schulen, Hochschulen, Studienkollegs, oder sonstigen Bildungseinrichtungen, z.B. bei mündlichen Prüfungen, sonstigen
-Leistungen im Unterricht, in Seminaren oder in Kursen, etc.   
+Leistungen im Unterricht, in Seminaren oder in Kursen, etc, oder auch in Bezug auf praktische Fertigkeiten, künstlerische oder sportliche Leistungen. 
 
 Die Gesamtbewertung wird von dem Programm als gewichtete Summe von eingegebenen Bewertungen zu einzelnen Kriterien 
 bestimmt. Für eine genauere Beschreibung siehe [kobs](https://github.com/ReneJursa/kobs/) unter doc.
