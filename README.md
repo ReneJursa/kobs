@@ -7,26 +7,40 @@ Mit dem Programm KOBS kann man kompetenzorientierte Leistungsbewertungen oder kr
 von (Prüfungs-)Leistungen vornehmen, die sich an Bewertungsmethoden auf der Basis von Beobachtungs- oder 
 Bewertungsbögen orientieren. 
 
+![Text](https://github.com/ReneJursa/kobs/tree/main/doc/images/Hauptfenster.png)
+
 Das Programm berechnet auf der Basis von Bewertungen zu einzelnen Kriterien oder Kompetenzen, oder genauer 
 gesagt Performanzen, eine Gesamtbewertung in Prozent und als Note für eine Prüfungsleistung oder Leistung 
 von Schüler:innen, Studierenden, Kollegiat:innen, Auszubildenden oder -allgemein ausgedrückt- von zu prüfenden
 Personen in Schulen, Hochschulen, Studienkollegs, oder sonstigen Bildungseinrichtungen, z.B. bei mündlichen Prüfungen, sonstigen
 Leistungen im Unterricht, in Seminaren oder in Kursen, etc, oder auch in Bezug auf praktische Fertigkeiten, künstlerische oder sportliche Leistungen. 
 
-Die Gesamtbewertung wird von dem Programm als gewichtete Summe von eingegebenen Bewertungen zu einzelnen Kriterien 
-bestimmt. Für eine genauere Beschreibung siehe [kobs](https://github.com/ReneJursa/kobs/) unter doc.
+In einer Kompetenztabelle werden die zu bewertenden Kompetenzen eingetragen: 
 
-## Lizenz
+![Text](https://github.com/ReneJursa/kobs/tree/main/doc/images/Kompetenztabelle.png)
 
-Das Programm KOBS wird unter der GNU General Public License veröffentlicht.
+Zu jeder Kompetenz werden Performanzen als beobachtbare Aspekte einer Kompetenz in die Performanztabellen eingetragen:
 
-Copyright (C) 2026 René Jursa
+![Text](https://github.com/ReneJursa/kobs/tree/main/doc/images/Performanztabellen.png)
 
-## Third Party Produkte
+Die Bewertungen können pro Person in entsprechende Tabellen eingegeben werden:
 
-KOBS enthält folgende Third Party Software:
-* JavaFX (Open source Java client application platform): https://openjfx.io/
-* OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
+![Text](https://github.com/ReneJursa/kobs/tree/main/doc/images/BewertungProPerson.png)
+
+Oder die Bewertungen können pro Performanz eingegeben werden:
+
+![Text](https://github.com/ReneJursa/kobs/tree/main/doc/images/BewertungProPerformanz.png)
+
+Die Gesamtbewertungen werden von dem Programm als gewichtete Summe von den eingegebenen Bewertungen zu den einzelnen Kriterien 
+bestimmt und in einer Ergebnistabelle dargestellt:
+
+![Text](https://github.com/ReneJursa/kobs/tree/main/doc/images/Ergebnistabelle.png)
+
+Für jede Person können individuelle Bewertungsübersichten in einem PDF-Dokument erstellt werden: 
+
+![Text](https://github.com/ReneJursa/kobs/tree/main/doc/images/Bewertungsuebersicht.png)
+
+Für eine genauere Beschreibung und Anleitung zum Programm siehe [kobs](https://github.com/ReneJursa/kobs/) unter doc.
        
 ## Installation
 
@@ -48,9 +62,18 @@ MacOS:
 Zur Installation auf einem Computer mit einem MacOS-Betriebssystem das Programm über die Datei kobs_1.3.1_macOS.dmg 
 installieren.
 
-## Dokumentation zum Programm
+## Lizenz
 
-Eine Dokumentation oder Anleitung zum Programm ist bei [kobs](https://github.com/ReneJursa/kobs/) unter doc zu finden. 
+Das Programm KOBS wird unter der GNU General Public License veröffentlicht.
+
+Copyright (C) 2026 René Jursa
+
+## Third Party Produkte
+
+KOBS enthält folgende Third Party Software:
+* JavaFX (Open source Java client application platform): https://openjfx.io/
+* OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
+
 
 
 
