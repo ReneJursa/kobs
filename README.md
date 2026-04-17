@@ -7,7 +7,7 @@ Mit dem Programm KOBS kann man kompetenzorientierte Leistungsbewertungen oder kr
 von (Prüfungs-)Leistungen vornehmen, die sich an Bewertungsmethoden auf der Basis von Beobachtungs- oder 
 Bewertungsbögen orientieren. 
 
-[](https://github.com/ReneJursa/kobs/tree/main/doc/images/Hauptfenster.png?raw=tree)
+[Bild](https://github.com/ReneJursa/kobs/tree/main/doc/images/Hauptfenster.png?raw=tree)
 
 Das Programm berechnet auf der Basis von Bewertungen zu einzelnen Kriterien oder Kompetenzen, oder genauer 
 gesagt Performanzen, eine Gesamtbewertung in Prozent und als Note für eine Prüfungsleistung oder Leistung 
