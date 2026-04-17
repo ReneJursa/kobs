@@ -40,7 +40,7 @@ Für jede Person können individuelle Bewertungsübersichten in einem PDF-Dokume
 
 ![Bewertungsübersicht](doc/images/Bewertungsuebersicht.png?raw=tree)
 
-Für eine genauere Dokumentation zum Programm siehe [Beschreibung](doc/KOBS_Beschreibung.pdf) und [Anleitung](doc/KOBS_Dokumentation.pdf).
+Für eine genauere Dokumentation zum Programm siehe [Beschreibung](doc/KOBS_Beschreibung.pdf) und [Anleitung](doc/KOBS_Anleitung.pdf).
        
 ## Installation
 
