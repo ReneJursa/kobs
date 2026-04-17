@@ -7,7 +7,7 @@ Mit dem Programm KOBS kann man kompetenzorientierte Leistungsbewertungen oder kr
 von (Prüfungs-)Leistungen vornehmen, die sich an Bewertungsmethoden auf der Basis von Beobachtungs- oder 
 Bewertungsbögen orientieren. 
 
-![Hauptfenster](https://github.com/ReneJursa/kobs/tree/main/doc/images/Hauptfenster.png?raw=tree)
+![Hauptfenster](doc/images/Hauptfenster.png?raw=tree)
 
 Das Programm berechnet auf der Basis von Bewertungen zu einzelnen Kriterien oder Kompetenzen, oder genauer 
 gesagt Performanzen, eine Gesamtbewertung in Prozent und als Note für eine Prüfungsleistung oder Leistung 
@@ -17,30 +17,30 @@ Leistungen im Unterricht, in Seminaren oder in Kursen, etc, oder auch in Bezug a
 
 In einer Kompetenztabelle werden die zu bewertenden Kompetenzen eingetragen: 
 
-![Kompetenztabelle](https://github.com/ReneJursa/kobs/tree/main/doc/images/Kompetenztabelle.png?raw=tree)
+![Kompetenztabelle](doc/images/Kompetenztabelle.png?raw=tree)
 
 Zu jeder Kompetenz werden Performanzen als beobachtbare Aspekte einer Kompetenz in die Performanztabellen eingetragen:
 
-![Performanztabellen](https://github.com/ReneJursa/kobs/tree/main/doc/images/Performanztabellen.png?raw=tree)
+![Performanztabellen](doc/images/Performanztabellen.png?raw=tree)
 
 Die Bewertungen können pro Person in entsprechende Tabellen eingegeben werden:
 
-![BewertungProPerson](https://github.com/ReneJursa/kobs/tree/main/doc/images/BewertungProPerson.png?raw=tree)
+![BewertungProPerson](doc/images/BewertungProPerson.png?raw=tree)
 
 Oder die Bewertungen können pro Performanz eingegeben werden:
 
-![BewertungProPerformanz](https://github.com/ReneJursa/kobs/tree/main/doc/images/BewertungProPerformanz.png?raw=tree)
+![BewertungProPerformanz](doc/images/BewertungProPerformanz.png?raw=tree)
 
 Die Gesamtbewertungen werden von dem Programm als gewichtete Summe von den eingegebenen Bewertungen zu den einzelnen Kriterien 
 bestimmt und in einer Ergebnistabelle dargestellt:
 
-![Ergebnistabelle](https://github.com/ReneJursa/kobs/tree/main/doc/images/Ergebnistabelle.png?raw=tree)
+![Ergebnistabelle](doc/images/Ergebnistabelle.png?raw=tree)
 
 Für jede Person können individuelle Bewertungsübersichten in einem PDF-Dokument erstellt werden: 
 
-![Bewertungsübersicht](https://github.com/ReneJursa/kobs/tree/main/doc/images/Bewertungsuebersicht.png?raw=tree)
+![Bewertungsübersicht](doc/images/Bewertungsuebersicht.png?raw=tree)
 
-Für eine genauere Dokumentation zum Programm siehe [Beschreibung](https://github.com/ReneJursa/kobs/tree/main/doc/KOBS_Beschreibung.pdf) und [Anleitung](https://github.com/ReneJursa/kobs/tree/main/doc/KOBS_Dokumentation.pdf).
+Für eine genauere Dokumentation zum Programm siehe [Beschreibung](doc/KOBS_Beschreibung.pdf) und [Anleitung](doc/KOBS_Dokumentation.pdf).
        
 ## Installation
 
