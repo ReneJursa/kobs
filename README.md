@@ -36,7 +36,7 @@ bestimmt und in einer Ergebnistabelle dargestellt:
 
 ![Ergebnistabelle](doc/images/Ergebnistabelle.png?raw=tree)
 
-Die Note wird dabei aus einem Notenschlüssel bestimmt, der in einer editierbaren Tabelle eingetragen werden werden kann:  
+Die Note wird dabei aus einem Notenschlüssel bestimmt, der in einer editierbaren Tabelle eingetragen werden werden kann, hier dargestellt mit einem Beispiel-Notenschlüssel:  
 
 ![ProzentNotenZuordnung](doc/images/ProzentNotenZuordnung.png?raw=tree)
 
