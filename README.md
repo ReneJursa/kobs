@@ -4,7 +4,7 @@
 ## Beschreibung
 
 Mit dem Programm KOBS kann man kompetenzorientierte Leistungsbewertungen oder kriterienbezogene Bewertungen 
-von (Prüfungs-)Leistungen vornehmen, die sich an Bewertungsmethoden auf der Basis von Beurteilungs- oder 
+von (Prüfungs-)Leistungen vornehmen, die sich an Methoden auf der Basis von Beurteilungs- oder 
 Bewertungsbögen orientieren. 
 
 ![Hauptfenster](doc/images/Hauptfenster.png?raw=tree)
