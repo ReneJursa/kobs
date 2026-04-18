@@ -15,23 +15,23 @@ von Schüler:innen, Studierenden, Kollegiat:innen, Auszubildenden oder -allgemei
 Personen in Schulen, Hochschulen, Studienkollegs, oder sonstigen Bildungseinrichtungen, z.B. bei mündlichen Prüfungen, sonstigen
 Leistungen im Unterricht, in Seminaren oder in Kursen, etc, oder auch in Bezug auf praktische Fertigkeiten, künstlerische oder sportliche Leistungen. 
 
-In einer Kompetenztabelle werden die zu bewertenden Kompetenzen eingetragen: 
+In einer Kompetenztabelle können beliebige Bezeichnungen und Gewichtungen der zu bewertenden Kompetenzen eingetragen werden: 
 
 ![Kompetenztabelle](doc/images/Kompetenztabelle.png?raw=tree)
 
-Zu jeder Kompetenz werden Performanzen als beobachtbare Aspekte einer Kompetenz in die Performanztabellen eingetragen:
+Zu jeder Kompetenz können beliebige Bezeichnungen zu Performanzen und deren Gewichtungen als beobachtbare Aspekte der Kompetenzen in Performanztabellen eingetragen werden:
 
 ![Performanztabellen](doc/images/Performanztabellen.png?raw=tree)
 
-Die Bewertungen können pro Person in entsprechende Tabellen eingegeben werden:
+Die Bewertungen können pro Person in entsprechende editierbare Tabellen eingegeben werden:
 
 ![BewertungProPerson](doc/images/BewertungProPerson.png?raw=tree)
 
-Oder die Bewertungen können pro Performanz eingegeben werden:
+Oder die Bewertungen können pro Performanz für alle eingelesenen Personen eingegeben werden:
 
 ![BewertungProPerformanz](doc/images/BewertungProPerformanz.png?raw=tree)
 
-Die Gesamtbewertungen werden von dem Programm als gewichtete Summe von den eingegebenen Bewertungen zu den einzelnen Kriterien 
+Die Gesamtbewertungen werden von dem Programm als gewichtete Summe der eingegebenen Bewertungen zu den einzelnen Kriterien 
 bestimmt und in einer Ergebnistabelle dargestellt:
 
 ![Ergebnistabelle](doc/images/Ergebnistabelle.png?raw=tree)
@@ -40,7 +40,9 @@ Für jede Person können individuelle Bewertungsübersichten in einem PDF-Dokume
 
 ![Bewertungsübersicht](doc/images/Bewertungsuebersicht.png?raw=tree)
 
-Für eine genauere Dokumentation zum Programm siehe [Beschreibung](doc/KOBS_Beschreibung.pdf) und [Anleitung](doc/KOBS_Anleitung.pdf).
+## Dokumentation
+
+Für eine Dokumentation zum Programm siehe [Beschreibung](doc/KOBS_Beschreibung.pdf) und [Anleitung](doc/KOBS_Dokumentation.pdf).
        
 ## Installation
 
@@ -71,7 +73,9 @@ Copyright (C) 2026 René Jursa
 ## Third Party Produkte
 
 KOBS enthält folgende Third Party Software:
+
 * JavaFX (Open source Java client application platform): https://openjfx.io/
+
 * OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
 
 
