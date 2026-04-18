@@ -42,7 +42,7 @@ Für jede Person können individuelle Bewertungsübersichten in einem PDF-Dokume
 
 ## Dokumentation
 
-Für eine Dokumentation zum Programm siehe [Beschreibung](doc/KOBS_Beschreibung.pdf) und [Anleitung](doc/KOBS_Dokumentation.pdf).
+Für eine Dokumentation zum Programm siehe [Beschreibung](doc/KOBS_Beschreibung.pdf) und [Anleitung](doc/KOBS_Anleitung.pdf).
        
 ## Installation
 
