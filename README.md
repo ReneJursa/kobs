@@ -36,6 +36,10 @@ bestimmt und in einer Ergebnistabelle dargestellt:
 
 ![Ergebnistabelle](doc/images/Ergebnistabelle.png?raw=tree)
 
+Die Note wird dabei aus einem Notenschlüssel bestimmt, der in einer editierbaren Tabelle eingetragen werden werden kann:  
+
+![ProzentNotenZuordnung](doc/images/ProzentNotenZuordnung.png?raw=tree)
+
 Für jede Person können individuelle Bewertungsübersichten in einem PDF-Dokument erstellt werden: 
 
 ![Bewertungsübersicht](doc/images/Bewertungsuebersicht.png?raw=tree)
