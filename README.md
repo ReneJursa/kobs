@@ -27,7 +27,7 @@ Die Bewertungen können pro Person in entsprechende editierbare Tabellen eingege
 
 ![BewertungProPerson](doc/images/BewertungProPerson.png?raw=tree)
 
-Oder die Bewertungen können pro Performanz für alle eingelesenen Personen eingegeben werden:
+Oder die Bewertungen können pro Kompetenz und Performanz für alle eingelesenen Personen eingegeben werden:
 
 ![BewertungProPerformanz](doc/images/BewertungProPerformanz.png?raw=tree)
 
@@ -55,8 +55,7 @@ Hier sind fertige Installationspakete für Linux, MacOS und Windows zu finden:
 
 Windows:
 Zur Installation auf einem Computer mit einem Windows-Betriebssystem das Programm über die Datei 
-kobs-1.3.1_win_x64.msi installieren. Falls hierbei die Meldung „Der Computer wurde durch Windows geschützt“ 
-auftaucht, dann auf „Weitere Informationen“ klicken und danach auf „Trotzdem ausführen“.
+kobs-1.3.1_win_x64.msi installieren. 
 
 Linux:
 Zur Installation auf einem Computer mit einer Linux-Distribution, die Debian-basiert ist, also z.B. Debian,
